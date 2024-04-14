@@ -78,6 +78,13 @@ local_settings.py
 db.sqlite3
 db.sqlite3-journal
 
+
+## dataset related
+datasets/*
+!datasets/*.yaml
+!datasets/*.log
+!src/python/tools/preprocess/datasets
+
 # Flask stuff:
 instance/
 .webassets-cache

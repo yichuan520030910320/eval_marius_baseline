@@ -98,7 +98,7 @@ storage:
   full_graph_evaluation: true
 training:
   batch_size: 1024
-  num_epochs: 50
+  num_epochs: 3
   pipeline:
     sync: false
     staleness_bound: 8

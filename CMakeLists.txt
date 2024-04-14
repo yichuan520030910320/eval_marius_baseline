@@ -4,7 +4,7 @@ set(CMAKE_CXX_STANDARD_REQUIRED ON)
 cmake_policy(SET CMP0048 NEW)
 
 project(marius VERSION 0.1 LANGUAGES CXX)
-
+add_compile_options(-std=c++17)
 include(FindPackageHandleStandardArgs)
 
 add_compile_definitions(_GLIBCXX_USE_CXX11_ABI=0)
@@ -36,7 +36,7 @@ set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} ${TORCH_CXX_FLAGS}")
 
 if(${USE_CUDA})
     add_definitions(-DMARIUS_CUDA=${USE_CUDA})
-    set(CMAKE_CUDA_STANDARD 14)
+    set(CMAKE_CUDA_STANDARD 17)
     set(CMAKE_CUDA_STANDARD_REQUIRED TRUE)
     enable_language(CUDA)
     set(CMAKE_CUDA_FLAGS "${CMAKE_CUDA_FLAGS} --expt-relaxed-constexpr")

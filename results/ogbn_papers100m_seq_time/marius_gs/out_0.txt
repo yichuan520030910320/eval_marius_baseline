@@ -1,0 +1,53 @@
+[2024-04-09 10:56:23.101] [info] [marius.cpp:29] Start initialization
+[2024-04-09 10:56:34.171] [info] [marius.cpp:66] Initialization Complete: 11.069s
+[2024-04-09 10:56:34.187] [info] [ordering.cpp:53] Generating Sequential Ordering
+[2024-04-09 10:56:34.196] [info] [ordering.cpp:424] Num Train Partitions: 90
+[2024-04-09 10:56:50.931] [info] [trainer.cpp:41] ################ Starting training epoch 1 ################
+[2024-04-09 10:57:13.038] [info] [reporting.cpp:167] Nodes processed: [120832/1207179], 10.009452%
+[2024-04-09 10:57:29.595] [info] [reporting.cpp:167] Nodes processed: [241664/1207179], 20.018904%
+[2024-04-09 10:57:47.393] [info] [reporting.cpp:167] Nodes processed: [362496/1207179], 30.028355%
+[2024-04-09 10:58:05.083] [info] [reporting.cpp:167] Nodes processed: [483328/1207179], 40.037807%
+[2024-04-09 10:58:23.444] [info] [reporting.cpp:167] Nodes processed: [604160/1207179], 50.047259%
+[2024-04-09 10:58:41.092] [info] [reporting.cpp:167] Nodes processed: [724992/1207179], 60.056711%
+[2024-04-09 10:58:58.811] [info] [reporting.cpp:167] Nodes processed: [845824/1207179], 70.066163%
+[2024-04-09 10:59:15.756] [info] [reporting.cpp:167] Nodes processed: [966656/1207179], 80.075614%
+[2024-04-09 10:59:33.141] [info] [reporting.cpp:167] Nodes processed: [1087488/1207179], 90.085066%
+[2024-04-09 10:59:49.135] [info] [reporting.cpp:167] Nodes processed: [1207179/1207179], 100.000000%
+[2024-04-09 10:59:49.136] [info] [pipeline.cpp:620] Pipeline flush complete
+[2024-04-09 10:59:49.136] [info] [trainer.cpp:45] ################ Finished training epoch 1 ################
+[2024-04-09 10:59:49.136] [info] [trainer.cpp:62] Epoch Runtime: 178204ms
+[2024-04-09 10:59:49.136] [info] [trainer.cpp:63] Nodes per Second: 6774.141
+[2024-04-09 10:59:49.912] [info] [ordering.cpp:53] Generating Sequential Ordering
+[2024-04-09 10:59:49.914] [info] [ordering.cpp:424] Num Train Partitions: 90
+[2024-04-09 11:00:01.813] [info] [trainer.cpp:41] ################ Starting training epoch 2 ################
+[2024-04-09 11:00:18.981] [info] [reporting.cpp:167] Nodes processed: [120832/1207179], 10.009452%
+[2024-04-09 11:00:35.802] [info] [reporting.cpp:167] Nodes processed: [241664/1207179], 20.018904%
+[2024-04-09 11:00:53.924] [info] [reporting.cpp:167] Nodes processed: [362496/1207179], 30.028355%
+[2024-04-09 11:01:12.251] [info] [reporting.cpp:167] Nodes processed: [483328/1207179], 40.037807%
+[2024-04-09 11:01:30.125] [info] [reporting.cpp:167] Nodes processed: [604160/1207179], 50.047259%
+[2024-04-09 11:01:47.643] [info] [reporting.cpp:167] Nodes processed: [724992/1207179], 60.056711%
+[2024-04-09 11:02:04.977] [info] [reporting.cpp:167] Nodes processed: [845824/1207179], 70.066163%
+[2024-04-09 11:02:22.384] [info] [reporting.cpp:167] Nodes processed: [966656/1207179], 80.075614%
+[2024-04-09 11:02:39.079] [info] [reporting.cpp:167] Nodes processed: [1087488/1207179], 90.085066%
+[2024-04-09 11:02:55.854] [info] [reporting.cpp:167] Nodes processed: [1207179/1207179], 100.000000%
+[2024-04-09 11:02:55.855] [info] [pipeline.cpp:620] Pipeline flush complete
+[2024-04-09 11:02:55.855] [info] [trainer.cpp:45] ################ Finished training epoch 2 ################
+[2024-04-09 11:02:55.855] [info] [trainer.cpp:62] Epoch Runtime: 174041ms
+[2024-04-09 11:02:55.855] [info] [trainer.cpp:63] Nodes per Second: 6936.176
+[2024-04-09 11:02:56.676] [info] [ordering.cpp:53] Generating Sequential Ordering
+[2024-04-09 11:02:56.677] [info] [ordering.cpp:424] Num Train Partitions: 90
+[2024-04-09 11:03:08.308] [info] [trainer.cpp:41] ################ Starting training epoch 3 ################
+[2024-04-09 11:03:26.468] [info] [reporting.cpp:167] Nodes processed: [120832/1207179], 10.009452%
+[2024-04-09 11:03:44.651] [info] [reporting.cpp:167] Nodes processed: [241664/1207179], 20.018904%
+[2024-04-09 11:04:00.873] [info] [reporting.cpp:167] Nodes processed: [362496/1207179], 30.028355%
+[2024-04-09 11:04:17.229] [info] [reporting.cpp:167] Nodes processed: [483328/1207179], 40.037807%
+[2024-04-09 11:04:33.672] [info] [reporting.cpp:167] Nodes processed: [604160/1207179], 50.047259%
+[2024-04-09 11:04:50.944] [info] [reporting.cpp:167] Nodes processed: [724992/1207179], 60.056711%
+[2024-04-09 11:05:07.649] [info] [reporting.cpp:167] Nodes processed: [845824/1207179], 70.066163%
+[2024-04-09 11:05:25.159] [info] [reporting.cpp:167] Nodes processed: [966656/1207179], 80.075614%
+[2024-04-09 11:05:42.473] [info] [reporting.cpp:167] Nodes processed: [1087488/1207179], 90.085066%
+[2024-04-09 11:05:59.158] [info] [reporting.cpp:167] Nodes processed: [1207179/1207179], 100.000000%
+[2024-04-09 11:05:59.159] [info] [pipeline.cpp:620] Pipeline flush complete
+[2024-04-09 11:05:59.159] [info] [trainer.cpp:45] ################ Finished training epoch 3 ################
+[2024-04-09 11:05:59.159] [info] [trainer.cpp:62] Epoch Runtime: 170851ms
+[2024-04-09 11:05:59.159] [info] [trainer.cpp:63] Nodes per Second: 7065.683

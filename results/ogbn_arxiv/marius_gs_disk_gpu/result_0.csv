@@ -1,0 +1,2 @@
+init_time,epoch_time,valid_acc,valid_mr,valid_mrr,valid_hits1,valid_hits3,valid_hits5,valid_hits10,valid_hits50,valid_hits100,test_acc,test_mr,test_mrr,test_hits1,test_hits3,test_hits5,test_hits10,test_hits50,test_hits100
+1.254,"[2.143, 1.161, 1.145, 1.255, 1.241]","[63.41488, 66.411625, 67.599584, 67.116346, 67.868049]",[],[],[],[],[],[],[],[],"[62.666914, 64.903401, 66.781886, 65.644096, 66.722219]",[],[],[],[],[],[],[],[]

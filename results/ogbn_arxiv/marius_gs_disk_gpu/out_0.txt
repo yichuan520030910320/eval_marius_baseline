@@ -1,0 +1,142 @@
+[2024-04-09 09:18:12.000] [info] [marius.cpp:29] Start initialization
+[2024-04-09 09:18:13.254] [info] [marius.cpp:66] Initialization Complete: 1.254s
+[2024-04-09 09:18:13.254] [info] [ordering.cpp:53] Generating Sequential Ordering
+[2024-04-09 09:18:13.266] [info] [ordering.cpp:424] Num Train Partitions: 18
+[2024-04-09 09:18:13.450] [info] [trainer.cpp:93] ################ Starting training epoch 1 ################
+[2024-04-09 09:18:14.539] [info] [reporting.cpp:167] Nodes processed: [10000/90941], 10.996140%
+[2024-04-09 09:18:14.677] [info] [reporting.cpp:167] Nodes processed: [20000/90941], 21.992281%
+[2024-04-09 09:18:14.815] [info] [reporting.cpp:167] Nodes processed: [30000/90941], 32.988421%
+[2024-04-09 09:18:14.952] [info] [reporting.cpp:167] Nodes processed: [40000/90941], 43.984561%
+[2024-04-09 09:18:15.080] [info] [reporting.cpp:167] Nodes processed: [50000/90941], 54.980702%
+[2024-04-09 09:18:15.207] [info] [reporting.cpp:167] Nodes processed: [60000/90941], 65.976842%
+[2024-04-09 09:18:15.332] [info] [reporting.cpp:167] Nodes processed: [70000/90941], 76.972982%
+[2024-04-09 09:18:15.454] [info] [reporting.cpp:167] Nodes processed: [80000/90941], 87.969123%
+[2024-04-09 09:18:15.581] [info] [reporting.cpp:167] Nodes processed: [90000/90941], 98.965263%
+[2024-04-09 09:18:15.593] [info] [reporting.cpp:167] Nodes processed: [90941/90941], 100.000000%
+[2024-04-09 09:18:15.593] [info] [trainer.cpp:130] ################ Finished training epoch 1 ################
+[2024-04-09 09:18:15.593] [info] [trainer.cpp:149] Epoch Runtime: 2143ms
+[2024-04-09 09:18:15.593] [info] [trainer.cpp:150] Nodes per Second: 42436.305
+[2024-04-09 09:18:15.603] [info] [evaluator.cpp:54] Evaluating validation set
+[2024-04-09 09:18:16.383] [info] [reporting.cpp:134] 
+=================================
+Node Classification: 29799 nodes evaluated
+Accuracy: 63.414880%
+=================================
+[2024-04-09 09:18:16.394] [info] [evaluator.cpp:57] Evaluating test set
+[2024-04-09 09:18:17.275] [info] [reporting.cpp:134] 
+=================================
+Node Classification: 48603 nodes evaluated
+Accuracy: 62.666914%
+=================================
+[2024-04-09 09:18:17.287] [info] [ordering.cpp:53] Generating Sequential Ordering
+[2024-04-09 09:18:17.287] [info] [ordering.cpp:424] Num Train Partitions: 18
+[2024-04-09 09:18:17.453] [info] [trainer.cpp:93] ################ Starting training epoch 2 ################
+[2024-04-09 09:18:17.582] [info] [reporting.cpp:167] Nodes processed: [10000/90941], 10.996140%
+[2024-04-09 09:18:17.705] [info] [reporting.cpp:167] Nodes processed: [20000/90941], 21.992281%
+[2024-04-09 09:18:17.826] [info] [reporting.cpp:167] Nodes processed: [30000/90941], 32.988421%
+[2024-04-09 09:18:17.947] [info] [reporting.cpp:167] Nodes processed: [40000/90941], 43.984561%
+[2024-04-09 09:18:18.069] [info] [reporting.cpp:167] Nodes processed: [50000/90941], 54.980702%
+[2024-04-09 09:18:18.252] [info] [reporting.cpp:167] Nodes processed: [60000/90941], 65.976842%
+[2024-04-09 09:18:18.373] [info] [reporting.cpp:167] Nodes processed: [70000/90941], 76.972982%
+[2024-04-09 09:18:18.489] [info] [reporting.cpp:167] Nodes processed: [80000/90941], 87.969123%
+[2024-04-09 09:18:18.603] [info] [reporting.cpp:167] Nodes processed: [90000/90941], 98.965263%
+[2024-04-09 09:18:18.615] [info] [reporting.cpp:167] Nodes processed: [90941/90941], 100.000000%
+[2024-04-09 09:18:18.615] [info] [trainer.cpp:130] ################ Finished training epoch 2 ################
+[2024-04-09 09:18:18.615] [info] [trainer.cpp:149] Epoch Runtime: 1161ms
+[2024-04-09 09:18:18.615] [info] [trainer.cpp:150] Nodes per Second: 78329.89
+[2024-04-09 09:18:18.622] [info] [evaluator.cpp:54] Evaluating validation set
+[2024-04-09 09:18:19.214] [info] [reporting.cpp:134] 
+=================================
+Node Classification: 29799 nodes evaluated
+Accuracy: 66.411625%
+=================================
+[2024-04-09 09:18:19.224] [info] [evaluator.cpp:57] Evaluating test set
+[2024-04-09 09:18:20.027] [info] [reporting.cpp:134] 
+=================================
+Node Classification: 48603 nodes evaluated
+Accuracy: 64.903401%
+=================================
+[2024-04-09 09:18:20.037] [info] [ordering.cpp:53] Generating Sequential Ordering
+[2024-04-09 09:18:20.037] [info] [ordering.cpp:424] Num Train Partitions: 18
+[2024-04-09 09:18:20.190] [info] [trainer.cpp:93] ################ Starting training epoch 3 ################
+[2024-04-09 09:18:20.306] [info] [reporting.cpp:167] Nodes processed: [10000/90941], 10.996140%
+[2024-04-09 09:18:20.425] [info] [reporting.cpp:167] Nodes processed: [20000/90941], 21.992281%
+[2024-04-09 09:18:20.557] [info] [reporting.cpp:167] Nodes processed: [30000/90941], 32.988421%
+[2024-04-09 09:18:20.684] [info] [reporting.cpp:167] Nodes processed: [40000/90941], 43.984561%
+[2024-04-09 09:18:20.810] [info] [reporting.cpp:167] Nodes processed: [50000/90941], 54.980702%
+[2024-04-09 09:18:20.938] [info] [reporting.cpp:167] Nodes processed: [60000/90941], 65.976842%
+[2024-04-09 09:18:21.068] [info] [reporting.cpp:167] Nodes processed: [70000/90941], 76.972982%
+[2024-04-09 09:18:21.194] [info] [reporting.cpp:167] Nodes processed: [80000/90941], 87.969123%
+[2024-04-09 09:18:21.322] [info] [reporting.cpp:167] Nodes processed: [90000/90941], 98.965263%
+[2024-04-09 09:18:21.335] [info] [reporting.cpp:167] Nodes processed: [90941/90941], 100.000000%
+[2024-04-09 09:18:21.335] [info] [trainer.cpp:130] ################ Finished training epoch 3 ################
+[2024-04-09 09:18:21.335] [info] [trainer.cpp:149] Epoch Runtime: 1145ms
+[2024-04-09 09:18:21.335] [info] [trainer.cpp:150] Nodes per Second: 79424.45
+[2024-04-09 09:18:21.344] [info] [evaluator.cpp:54] Evaluating validation set
+[2024-04-09 09:18:21.928] [info] [reporting.cpp:134] 
+=================================
+Node Classification: 29799 nodes evaluated
+Accuracy: 67.599584%
+=================================
+[2024-04-09 09:18:21.937] [info] [evaluator.cpp:57] Evaluating test set
+[2024-04-09 09:18:22.736] [info] [reporting.cpp:134] 
+=================================
+Node Classification: 48603 nodes evaluated
+Accuracy: 66.781886%
+=================================
+[2024-04-09 09:18:22.745] [info] [ordering.cpp:53] Generating Sequential Ordering
+[2024-04-09 09:18:22.745] [info] [ordering.cpp:424] Num Train Partitions: 18
+[2024-04-09 09:18:22.896] [info] [trainer.cpp:93] ################ Starting training epoch 4 ################
+[2024-04-09 09:18:23.022] [info] [reporting.cpp:167] Nodes processed: [10000/90941], 10.996140%
+[2024-04-09 09:18:23.239] [info] [reporting.cpp:167] Nodes processed: [20000/90941], 21.992281%
+[2024-04-09 09:18:23.392] [info] [reporting.cpp:167] Nodes processed: [30000/90941], 32.988421%
+[2024-04-09 09:18:23.555] [info] [reporting.cpp:167] Nodes processed: [40000/90941], 43.984561%
+[2024-04-09 09:18:23.675] [info] [reporting.cpp:167] Nodes processed: [50000/90941], 54.980702%
+[2024-04-09 09:18:23.792] [info] [reporting.cpp:167] Nodes processed: [60000/90941], 65.976842%
+[2024-04-09 09:18:23.908] [info] [reporting.cpp:167] Nodes processed: [70000/90941], 76.972982%
+[2024-04-09 09:18:24.024] [info] [reporting.cpp:167] Nodes processed: [80000/90941], 87.969123%
+[2024-04-09 09:18:24.140] [info] [reporting.cpp:167] Nodes processed: [90000/90941], 98.965263%
+[2024-04-09 09:18:24.152] [info] [reporting.cpp:167] Nodes processed: [90941/90941], 100.000000%
+[2024-04-09 09:18:24.152] [info] [trainer.cpp:130] ################ Finished training epoch 4 ################
+[2024-04-09 09:18:24.152] [info] [trainer.cpp:149] Epoch Runtime: 1255ms
+[2024-04-09 09:18:24.152] [info] [trainer.cpp:150] Nodes per Second: 72462.945
+[2024-04-09 09:18:24.160] [info] [evaluator.cpp:54] Evaluating validation set
+[2024-04-09 09:18:24.749] [info] [reporting.cpp:134] 
+=================================
+Node Classification: 29799 nodes evaluated
+Accuracy: 67.116346%
+=================================
+[2024-04-09 09:18:24.758] [info] [evaluator.cpp:57] Evaluating test set
+[2024-04-09 09:18:25.595] [info] [reporting.cpp:134] 
+=================================
+Node Classification: 48603 nodes evaluated
+Accuracy: 65.644096%
+=================================
+[2024-04-09 09:18:25.604] [info] [ordering.cpp:53] Generating Sequential Ordering
+[2024-04-09 09:18:25.604] [info] [ordering.cpp:424] Num Train Partitions: 18
+[2024-04-09 09:18:25.769] [info] [trainer.cpp:93] ################ Starting training epoch 5 ################
+[2024-04-09 09:18:25.889] [info] [reporting.cpp:167] Nodes processed: [10000/90941], 10.996140%
+[2024-04-09 09:18:26.062] [info] [reporting.cpp:167] Nodes processed: [20000/90941], 21.992281%
+[2024-04-09 09:18:26.214] [info] [reporting.cpp:167] Nodes processed: [30000/90941], 32.988421%
+[2024-04-09 09:18:26.372] [info] [reporting.cpp:167] Nodes processed: [40000/90941], 43.984561%
+[2024-04-09 09:18:26.512] [info] [reporting.cpp:167] Nodes processed: [50000/90941], 54.980702%
+[2024-04-09 09:18:26.628] [info] [reporting.cpp:167] Nodes processed: [60000/90941], 65.976842%
+[2024-04-09 09:18:26.764] [info] [reporting.cpp:167] Nodes processed: [70000/90941], 76.972982%
+[2024-04-09 09:18:26.882] [info] [reporting.cpp:167] Nodes processed: [80000/90941], 87.969123%
+[2024-04-09 09:18:26.998] [info] [reporting.cpp:167] Nodes processed: [90000/90941], 98.965263%
+[2024-04-09 09:18:27.010] [info] [reporting.cpp:167] Nodes processed: [90941/90941], 100.000000%
+[2024-04-09 09:18:27.010] [info] [trainer.cpp:130] ################ Finished training epoch 5 ################
+[2024-04-09 09:18:27.010] [info] [trainer.cpp:149] Epoch Runtime: 1241ms
+[2024-04-09 09:18:27.010] [info] [trainer.cpp:150] Nodes per Second: 73280.414
+[2024-04-09 09:18:27.019] [info] [evaluator.cpp:54] Evaluating validation set
+[2024-04-09 09:18:27.610] [info] [reporting.cpp:134] 
+=================================
+Node Classification: 29799 nodes evaluated
+Accuracy: 67.868049%
+=================================
+[2024-04-09 09:18:27.619] [info] [evaluator.cpp:57] Evaluating test set
+[2024-04-09 09:18:28.437] [info] [reporting.cpp:134] 
+=================================
+Node Classification: 48603 nodes evaluated
+Accuracy: 66.722219%
+=================================
